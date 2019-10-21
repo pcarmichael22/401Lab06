@@ -1,0 +1,30 @@
+{
+  "categories": [
+    {
+      "id": "011",
+      "name": "Books",
+      "display_name": "Awesome Books",
+      "description": "This is the Book Description"
+    }
+  ],
+  "products": [
+    {
+      "id": "0101010",
+      "category": "Books",
+      "name": "Sorcerer's Stoned",
+      "description": "The First One"
+    },
+    {
+      "id": "0101440",
+      "category": "Books",
+      "name": "Rainbow Six",
+      "description": "The First One"
+    },
+    {
+      "id": "01334",
+      "category": "Books",
+      "name": "Bible",
+      "description": "The Book"
+    }
+  ]
+}

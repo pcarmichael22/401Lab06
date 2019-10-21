@@ -1,0 +1,26 @@
+{
+  "name": "401Lab06",
+  "version": "1.0.0",
+  "description": "JSON Server Lab - Peter Carmichael",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "json-server --id=_id --watch ./data/db.json",
+    "lint": "eslint './**/*.js' --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcarmichael22/401Lab06.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcarmichael22/401Lab06/issues"
+  },
+  "homepage": "https://github.com/pcarmichael22/401Lab06#readme",
+  "dependencies": {
+    "eslint": "^6.5.1",
+    "json-server": "^0.15.1"
+  }
+}
